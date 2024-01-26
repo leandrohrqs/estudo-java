@@ -1,15 +1,17 @@
 <h1 align="center">Estudo JAVA<h1>
 
-## Este repositório contém anotações e códigos feitos durante o curso de java do Nélio Alves na Udemy. Estarei atualizando diariamente minha progressão no curso e destacando pontos importantes no README principal.
+## Este repositório contém anotações e códigos feitos durante o curso de java do Nélio Alves na Udemy. Estarei atualizando diariamente minha progressão no curso e destacando pontos importantes no README principal
 
-### Conteúdos:
+## Não estarei anotando informações básicas, como tipo de dados, estrutura de repetição e afins, pois estou entrando no java vindo de linguagens parecidas e por já conhecer o básico
+
+### Conteúdos
 
 - Conceitos de programação ✅
 - Introdução à linguagem Java ✅
-- Estrutura sequencial 📔🕛
-- Estrutura condicional
-- Estruturas repetitivas
-- Introdução à POO
+- Estrutura sequencial ✅
+- Estrutura condicional ✅
+- Estruturas repetitivas ✅
+- Introdução à POO 📔🕛
 - Construtores, this, sobrecarga, encapsulamento
 - Comportamento de memórias e arrays
 - Data-hora
